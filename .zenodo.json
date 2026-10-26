@@ -1,0 +1,9 @@
+{
+  "title": "Two-Clocks Atlas (prototype)",
+  "upload_type": "software",
+  "description": "Interactive prototype of the Two-Clocks Atlas. Real Cohort Harmoniser metadata; all association estimates are simulated for demonstration.",
+  "creators": [{"name": "Stavropoulos, Vasileios", "affiliation": "RMIT University", "orcid": "0000-0001-6964-4662"}],
+  "license": "MIT",
+  "keywords": ["developmental psychology", "digital media", "wellbeing", "cohort harmonisation", "longitudinal"],
+  "version": "0.1.0"
+}

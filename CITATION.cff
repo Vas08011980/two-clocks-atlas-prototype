@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this prototype, please cite it as below."
+title: "Two-Clocks Atlas (prototype)"
+type: software
+authors:
+  - family-names: Stavropoulos
+    given-names: Vasileios
+    affiliation: RMIT University
+    orcid: "https://orcid.org/0000-0001-6964-4662"
+version: "0.1.0"
+date-released: "2026-10-27"
+license: MIT
+abstract: "Interactive prototype of the Two-Clocks Atlas: ten longitudinal studies on an age × era grid with real harmoniser metadata and simulated association estimates."
+keywords: [developmental psychology, digital media, wellbeing, cohort harmonisation, longitudinal]
