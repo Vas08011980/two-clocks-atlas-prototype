@@ -16,7 +16,7 @@ Open `index.html` in a browser, or view it via GitHub Pages. No installation or 
 
 ## Related
 
-- Cohort Harmoniser prototype: https://cohort-harmoniser.vasilisstavropoylos80.workers.dev/
+- Prototype Cohort Harmoniser (interactive page): https://vas08011980.github.io/prototype-cohort-harmoniser/app/ · repository: https://github.com/Vas08011980/prototype-cohort-harmoniser
 
 ## Citation
 
